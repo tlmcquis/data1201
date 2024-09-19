@@ -1,2 +1,2 @@
-# data1201
-A repository for data1201 stuff
+# Data 1201 - Explorations in Data Science
+
