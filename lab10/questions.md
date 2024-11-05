@@ -23,3 +23,4 @@
 # Questions for Post-Lab Assignment 10!
 
 ### Question 6: After the last step, some columns are empty. (You can check by text faceting a column) Why? What do you think we can do to fix it?
+####Some of the coordinates columns are empty and thats because they simply might not have data to place but we might be able to fix it by reclustering them to ignore empty sets.
